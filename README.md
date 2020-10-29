@@ -7,7 +7,10 @@ Electrolux Food Survey 2014 survey reports that although 33% of the respondents 
 Other than just being a mere preference, home-cooked meals also provide other benefits. According to an article written by Mount Elizabeth Hospital, in light of healthier options found in the hawker centre in the last few years, home-cooked food still proves to be the healthier option as it is packed with better nutrition and enables better control of fat, sugar and salt. 
 
 To help people living in Singapore enjoy more home-cooked food, our team proposes CookWhatAh, an Integrated Cooking Application, that can help users solve many of their problems they find when cooking at home. CookWhatAh targets both the uninitiated and experienced cooks with the following functionalities:
-
+1. Identifying ingredients with photos
+2. Recipe recommendation based on selected ingredients
+3. Easy to follow instructions and nutrition information
+4. Additional ingredients recommendation
 
 # Section 3: Credits
 Full Name | Student ID | Areas of Responsibility
