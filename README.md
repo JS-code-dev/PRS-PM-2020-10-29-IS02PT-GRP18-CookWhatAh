@@ -15,7 +15,7 @@ To help people living in Singapore enjoy more home-cooked food, our team propose
 # Section 3: Credits
 Full Name | Student ID | Areas of Responsibility
 -|-|-
-Daniel Tan Hoong Xiang | A0064608B | Image-scraping Algorithms, Telegram UI and System Integration
+Daniel Tan Hoong Xiang | A0074608B | Image-scraping Algorithms, Telegram UI and System Integration
 Yang Jieshen | A0003901Y | Recipe-scraping Algorithms, Clustering Modelling
 Onn Wei Cheng | A0092201X | Image Recognition Modelling
 Cheng Kok Cheong | A0038791W | Ingredient Recommender Modelling
