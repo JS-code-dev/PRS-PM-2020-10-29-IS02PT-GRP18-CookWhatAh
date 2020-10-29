@@ -12,3 +12,7 @@ CookWhatAh rides on a Telegram application as the user interface to implement ou
 3. Install python dependencies using requirements.txt
 4. Run app.py and keep it running while you use the telegram bot
 5. In your telegram app in your smartphone/desktop, please search "CookWhatAh_2" or click https://t.me/CookWhatAh_2_bot
+
+### Sample Images:
+1. Some sample images are located [here](https://github.com/JS-code-dev/PRS-PM-2020-10-29-IS02PT-GRP18-CookWhatAh/tree/main/SystemCode/telegram/sample_images)
+2. You can upload these images to try out our system
