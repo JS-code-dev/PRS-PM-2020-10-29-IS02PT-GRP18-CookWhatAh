@@ -25,10 +25,10 @@ Flow to prepare the dataset used for training the neural network:
     3) **remove_dup_recipes.py** - remove duplicate recipes that were queried
     4) **extract_rated_recipes.py** - filter out recipes with 3.5 stars and above
 
-2) OneHotEncodeIngred.py is used in training mode to generate list of unique ingredients (Total 5000 ingredients - ingred_decode_label.xlsx)
+2) **OneHotEncodeIngred.py** is used in training mode to generate list of unique ingredients (Total 5000 ingredients - ingred_decode_label.xlsx)
 
 3) Manual labelling of ingredients to broad category (5000 unique ingredients -> 600 labels)
-    1) MapIngred.py uses this label map (ingred_decode_label.xlsx) to map ingredients from recipes to broad labels before being parsed into the model
+    1) **MapIngred.py** uses this label map (ingred_decode_label.xlsx) to map ingredients from recipes to broad labels before being parsed into the model
 
 4) OneHotEncodeIngred.py is used again in training mode to generate Label and One Hot encoders to one hot encode inputs. Mapping is stored as "label_encoder.pkl" and "onehot_encoder.pkl". These files are used in encode/decode mode to translate ingredients
     1) This also generates the one hot encoded recipe list together with other information such as prep time, cuisine etc. (recipes_encoded_rate_cuisine.csv)
